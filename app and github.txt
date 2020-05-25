@@ -1,0 +1,3 @@
+Github Link: https://github.com/abhinav314/rchitects_ur4a/blob/master/UI_rchitects_v1.5.R
+Working app: https://kk1994.shinyapps.io/R-Chitects/
+Video Presentation: https://www.youtube.com/watch?v=nPxpV9QayR0&feature=youtu.be
